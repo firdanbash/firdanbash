@@ -14,8 +14,6 @@
   🌱 I’m currently sharpening my skills in <b>TypeScript, and System Design.</b>
   <br>
   👯 I’m open to collaborate on <b>innovative open source projects.</b>
-  <br>
-  📫 How to reach me: <b>firdana.id@gmail.com</b>
 </p>
 
 <p align="center">
