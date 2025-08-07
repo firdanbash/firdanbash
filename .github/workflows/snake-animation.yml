@@ -1,3 +1,4 @@
+# .github/workflows/snake-animation.yml
 name: Generate Snake Animation
 
 on:
@@ -9,15 +10,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      # Menggunakan versi terbaru untuk stabilitas
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: firdanbash
-          # Atur warna sesuai seleramu
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          # Anda bisa menambahkan output lain di sini jika mau
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v2.5.0
+      # Menggunakan versi terbaru untuk stabilitas
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
