@@ -9,28 +9,18 @@
 <br>
 
 <p align="center">
-  🔭 I’m currently building awesome things with <b>NEXT.JS</b>
-  <br>
-  🌱 I’m currently sharpening my skills in <b>TypeScript, and System Design.</b>
-  <br>
-  👯 I’m open to collaborate on <b>innovative open source projects.</b>
-  <br>
-  📫 How to reach me: <b>firdana.id@gmail.com</b>
+  🔭 I’m currently building awesome things with <b>NEXT.JS</b>
+  <br>
+  🌱 I’m currently sharpening my skills in <b>TypeScript, and System Design.</b>
+  <br>
+  👯 I’m open to collaborate on <b>innovative open source projects.</b>
+  <br>
+  📫 How to reach me: <b>firdana.id@gmail.com</b>
 </p>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="left">My Recent GitHub Activity</h3>
-      </td>
-    <td valign="top" width="50%">
-      <h3 align="left">Contribution Snake</h3>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/firdanbash/firdanbash/output/github-contribution-grid-snake.svg" alt="Snake Game Animation">
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/firdanbash/firdanbash/output/github-contribution-grid-snake.svg" alt="Snake Game Animation">
+</p>
 
 
 <h3 align="left">My Tech Arsenal:</h3>
