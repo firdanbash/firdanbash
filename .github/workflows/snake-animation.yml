@@ -3,26 +3,28 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Update setiap 6 jam
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   build:
+    # --- TAMBAHKAN BLOK INI UNTUK MEMBERIKAN IZIN MENULIS ---
+    permissions:
+      contents: write
+    # ----------------------------------------------------
+
     runs-on: ubuntu-latest
     steps:
-      # Menggunakan versi terbaru untuk stabilitas
       - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Anda bisa menambahkan output lain di sini jika mau
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Menggunakan versi terbaru untuk stabilitas
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
