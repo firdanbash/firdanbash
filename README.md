@@ -21,7 +21,7 @@
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <h3 align="left">My Latest Blog Posts</h3>
+      <h3 align="left">My Recent GitHub Activity</h3>
       </td>
     <td valign="top" width="50%">
       <h3 align="left">Contribution Snake</h3>
