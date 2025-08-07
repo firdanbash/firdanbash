@@ -45,7 +45,6 @@
 <h3 align="left">Stats & Trophies:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=firdanbash&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="firdanbash's github stats" />
-  <img src="https://github-readme-trophy.vercel.app/?username=firdanbash&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
 </p>
 
 <h3 align="left">Let's Connect:</h3>
