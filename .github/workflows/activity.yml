@@ -3,20 +3,20 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    # Jalankan setiap 1 jam
     - cron: '0 */1 * * *'
-  
-  # Izinkan untuk dijalankan manual
   workflow_dispatch:
 
 jobs:
   build:
+    # --- TAMBAHKAN BLOK INI UNTUK MEMBERIKAN IZIN ---
+    permissions:
+      contents: write
+    # ----------------------------------------------
+
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # Jumlah aktivitas yang ingin ditampilkan
           max_post_count: "5"
-          # Feed aktivitas dari profil GitHub-mu
           feed_list: "https://github.com/firdanbash.atom"
