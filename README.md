@@ -5,20 +5,20 @@
 <div align="center">
   <h1 align="center">Hello, I'm Firdan Bash! 👋</h1>
   <h3 align="center">Full-Stack Web Developer specializing in Laravel & Vue.js</h3>
-  <p>Crafting robust web applications with modern technologies</p>
+  <p>Crafting elegant web solutions with modern technologies</p>
 </div>
 
 <br>
 
 <div align="center">
   
-  🔭 **Currently Working With:** `Laravel` · `Vue.js` · `Next.js`
+  🚀 **Currently Building With:** `Laravel` · `Vue.js` · `Tailwind CSS`
   
-  🌱 **Currently Learning:** `TypeScript` · `System Design` · `Advanced Vue 3`
+  🌱 **Currently Learning:** `Next.js` · `TypeScript` · `Advanced System Design`
   
-  💡 **Interested In:** `Open Source` · `Clean Architecture` · `Performance Optimization`
+  💼 **Open To:** `Collaboration` · `Innovative Projects` · `Open Source`
   
-  📫 **Reach Me:** [firdan.dev](https://firdan.dev) · [LinkedIn](https://linkedin.com/in/firdan-bash)
+  📫 **Let's Talk:** [firdan.dev](https://firdan.dev) · [LinkedIn](https://linkedin.com/in/firdan-bash)
 
 </div>
 
@@ -28,54 +28,60 @@
   <img src="https://raw.githubusercontent.com/firdanbash/firdanbash/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 </p>
 
-## 🛠️ Technical Stack
+## 💻 Tech Stack & Expertise
 
 ### **Frontend Development**
 <p>
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### **Backend & Database**
+### **Backend Development**
 <p>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### **Tools & Technologies**
+### **Currently Learning & Exploring**
 <p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
-## 📊 GitHub Analytics
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdanbash&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdanbash&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+- **Deepening** my expertise in **Laravel ecosystem**
+- **Mastering** **Vue.js 3** with Composition API
+- **Learning** **Next.js** for full-stack React applications
+- **Building** responsive and accessible interfaces with **Tailwind CSS**
+- **Exploring** **TypeScript** for better code quality
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firdanbash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📈 Recent Activity
 
-## 🏆 GitHub Trophies
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=firdanbash&theme=nord&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: <!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 
-## 🌐 Connect With Me
+## 🤝 Let's Collaborate
+
+I'm always excited to work on interesting projects! Whether it's:
+
+- **Laravel** backend development
+- **Vue.js** frontend applications
+- **Full-stack** projects with modern tech stack
+- **Open source** contributions
+
+Feel free to reach out!
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/firdan-bash" target="_blank">
@@ -98,6 +104,6 @@
   
   ⭐️ **From [firdanbash](https://github.com/firdanbash)**
   
-  <sub><sup>"Code is like humor. When you have to explain it, it's bad." - Cory House</sup></sub>
+  <sub><sup>Building the web, one component at a time</sup></sub>
 
 </div>
