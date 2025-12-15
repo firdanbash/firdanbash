@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
 <br>
 
@@ -50,17 +50,13 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
 <br>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=firdanbash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdanbash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
@@ -73,17 +69,13 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 <br>
 
 ## 🔥 Current Focus
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-<br><br>
 
 ```javascript
 const firdan = {
