@@ -63,8 +63,6 @@ I'm a **Full-Stack Developer** from **Indonesia** 🇮🇩, passionate about bui
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdanbash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=firdanbash&theme=tokyonight&hide_border=true&background=0D1117)
-
 </div>
 
 ---
