@@ -20,6 +20,10 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -46,11 +50,17 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=firdanbash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdanbash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
@@ -63,10 +73,53 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
+<br>
+
+## 🔥 Current Focus
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+<br><br>
+
+```javascript
+const firdan = {
+  currentlyLearning: ["Go", "Microservices", "Docker"],
+  workingOn: ["Restaurant POS", "Inventory System", "Video Platform"],
+  interests: ["Backend Development", "API Design", "Database Optimization"],
+  askMeAbout: ["PHP", "Laravel", "Go", "Vue.js", "MySQL"],
+};
+```
 
 </div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+
+<br><br>
+
+**Feel free to reach out for collaborations or just a friendly chat!**
+
+<br>
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/firdanbash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/firdanbash)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firdanbash)
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
