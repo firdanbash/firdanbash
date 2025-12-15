@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Firdan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Firdanbash&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Indonesia+🇮🇩;Building+Scalable+Web+Applications;Backend+%7C+Frontend+%7C+API;PHP+%7C+Go+%7C+JavaScript+%7C+Vue.js;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
