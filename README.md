@@ -1,5 +1,7 @@
 ### Hi, I'm Firdan 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&width=435&lines=Full-Stack+Developer;Backend+%7C+Frontend+%7C+API;PHP+%7C+Go+%7C+JavaScript)](https://git.io/typing-svg)
+
 Full-Stack Developer from Indonesia 🇮🇩
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/firdanbash)
