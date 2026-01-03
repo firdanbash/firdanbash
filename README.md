@@ -5,6 +5,4 @@
 
 <br>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=firdanbash&color=blueviolet&style=for-the-badge" />
-</p>
+
